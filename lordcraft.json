@@ -351,16 +351,6 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:v1.9.0.2@jar",
-          "name": "SecurityCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2690191,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/lordcraft-1.16.5/forgemods/required/[1.16.5]+SecurityCraft+v1.9.0.2.jar",
-            "MD5": "f09fe8cc6fe0f8743d825f9b813744cf"
-          }
-        },
-        {
           "id": "com.minecraftabnormals.abnormals_core.core:abnormals_core:3.3.0@jar",
           "name": "Abnormals Core",
           "type": "ForgeMod",
@@ -668,6 +658,16 @@
             "size": 110010,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/lordcraft-1.16.5/forgemods/required/portals.jar",
             "MD5": "b5407bdd857e73236ff10d204f9fe8d5"
+          }
+        },
+        {
+          "id": "net.geforcemods:securitycraft:v1.9.0.2@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2690191,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/lordcraft-1.16.5/forgemods/required/SecurityCraft%20v1.9.0.2.jar",
+            "MD5": "f09fe8cc6fe0f8743d825f9b813744cf"
           }
         },
         {
