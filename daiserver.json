@@ -354,8 +354,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 59008,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/EntityCulling-1.12.2-6.2.2.jar",
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/EntityCulling-1.12.2-6.2.2.jar",
             "MD5": "56eb5be3c74672f7dbd87a8df2bcbfd0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -526,8 +529,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15289,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/particleculling-1.12.2-v1.3.1.jar",
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/particleculling-1.12.2-v1.3.1.jar",
             "MD5": "b324a3095054fca9b957cd6050bdf528"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -546,8 +552,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 99295,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/RenderLib-1.12.2-1.1.4.jar",
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/RenderLib-1.12.2-1.1.4.jar",
             "MD5": "6be7405bfd74980c5a585df401a89b20"
+          },
+          "required": {
+            "value": false
           }
         },
         {
