@@ -591,6 +591,17 @@
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/Wawla-1.12.2-2.6.275.jar",
             "MD5": "3762f87395a87af86e9552c6d7ca7e06"
           }
+        },
+        {
+          "id": "dummy.txt",
+          "name": "dummy.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/dummy.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "dummy.txt"
+          }
         }
       ]
     }
