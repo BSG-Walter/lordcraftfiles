@@ -276,6 +276,19 @@
           }
         },
         {
+          "id": "com.blamejared:ambientenvironment:1.0.2@jar",
+          "name": "Ambient Environment",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25707,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/AmbientEnvironment-1.0.2.jar",
+            "MD5": "b4b80455cd51785cb551406c679763ac"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.creativemd:ambientsounds:3.0@jar",
           "name": "AmbientSounds",
           "type": "ForgeMod",
@@ -299,6 +312,16 @@
           }
         },
         {
+          "id": "tschipp.callablehorses:callablehorses:1.1.1@jar",
+          "name": "Callable Horses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 130065,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/callablehorses-1.12.2-1.1.1.jar",
+            "MD5": "576d7b25de82ae6ed31d80c1cd3c1558"
+          }
+        },
+        {
           "id": "tschipp.carryon:carryon:1.12.3@jar",
           "name": "Carry On",
           "type": "ForgeMod",
@@ -306,6 +329,16 @@
             "size": 319866,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/carryon-1.12.2-1.12.6.20.jar",
             "MD5": "67f26a8f192efefffb6f5d34e7021a13"
+          }
+        },
+        {
+          "id": "com.natamus:collective:3.0@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129073,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/collective-1.12.2-3.0.jar",
+            "MD5": "b5ca96a015a58fdc8afa2973abe7b0b0"
           }
         },
         {
@@ -346,6 +379,29 @@
             "size": 15929762,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
+          }
+        },
+        {
+          "id": "com.elenai:elenaidodge2:1.1.0@jar",
+          "name": "Elenai Dodge 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 192715,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/ElenaiDodge2-1.12.2-1.1.0.jar",
+            "MD5": "5adfd7c24e5bfabd0ca9ae9b9ca9751c"
+          }
+        },
+        {
+          "id": "team.creative:enhancedvisuals:1.3@jar",
+          "name": "Enhanced Visuals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4725314,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+            "MD5": "908ea7af1f0a1043a4a937487235262e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -537,6 +593,16 @@
           }
         },
         {
+          "id": "com.creativemd:playerrevive:1.0@jar",
+          "name": "Player Revive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5133185,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/PlayerRevive_v1.2.40_mc1.12.2.jar",
+            "MD5": "4a2af17c073bc43f6076d45559c6716a"
+          }
+        },
+        {
           "id": "com.therandomlabs.randompatches.core:randompatches:1.12.2-1.22.1.10@jar",
           "name": "RandomPatches",
           "type": "ForgeMod",
@@ -583,6 +649,49 @@
           }
         },
         {
+          "id": "com.tiviacz:travelersbackpack:1.0.35@jar",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 397467,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/TravelersBackpack-1.12.2-1.0.35.jar",
+            "MD5": "ec9e10a72424dc0d0fd73e5af8d6544d"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:4.0@jar",
+          "name": "Tree Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16173,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/treeharvester_1.12.2-4.0.jar",
+            "MD5": "728ce7116f9b35930fe82069a7f7d443"
+          }
+        },
+        {
+          "id": "squeek.wailaharvestability:wailaharvestability:1.1.12@jar",
+          "name": "Waila Harvestability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31462,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/WailaHarvestability-mc1.12-1.1.12.jar",
+            "MD5": "0bd8765ff3064be336cb1b09208e410c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "genandnic.walljump:walljump:1.12.2-1.3.2@jar",
+          "name": "Wall-Jump!",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83768,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/walljump-1.12.2-1.3.2.jar",
+            "MD5": "845bdff742f44f42021458ea2897291e"
+          }
+        },
+        {
           "id": "net.darkhax:wawla:2.6.275@jar",
           "name": "What Are We Looking At",
           "type": "ForgeMod",
@@ -590,6 +699,49 @@
             "size": 94115,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/Wawla-1.12.2-2.6.275.jar",
             "MD5": "3762f87395a87af86e9552c6d7ca7e06"
+          }
+        },
+        {
+          "id": "com.natamus:worldborder:2.3@jar",
+          "name": "World Border",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9827,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/worldborder_1.12.2-2.3.jar",
+            "MD5": "62db818decebd1b49d6e3145e852f44e"
+          }
+        },
+        {
+          "id": "Elenai Dodge 2.cfg",
+          "name": "Elenai Dodge 2.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 19521,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/config/Elenai%20Dodge%202.cfg",
+            "MD5": "d03518ae465f5e166c56760fae4935a4",
+            "path": "config/Elenai Dodge 2.cfg"
+          }
+        },
+        {
+          "id": "travelersbackpack.cfg",
+          "name": "travelersbackpack.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1837,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/config/travelersbackpack.cfg",
+            "MD5": "baca7a9d28763c80f649ab502c6c2b84",
+            "path": "config/travelersbackpack.cfg"
+          }
+        },
+        {
+          "id": "walljump.cfg",
+          "name": "walljump.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1497,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/config/walljump.cfg",
+            "MD5": "6756d5aecf4e3cc4095e44d5452c8039",
+            "path": "config/walljump.cfg"
           }
         },
         {
