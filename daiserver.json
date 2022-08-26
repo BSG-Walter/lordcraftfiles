@@ -312,6 +312,26 @@
           }
         },
         {
+          "id": "com.otg.worldpacker:bbop:1.0@jar",
+          "name": "Biome Bundle O Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14171268,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/Biome_Bundle_O_Plenty-1.12.2_v1.0.jar",
+            "MD5": "ba31032ea6f67655a000b2df33ef2e7c"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:7.0.1@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4746208,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar",
+            "MD5": "9d364be3df6fee338c1729b7fb1def1b"
+          }
+        },
+        {
           "id": "tschipp.callablehorses:callablehorses:1.1.1@jar",
           "name": "Callable Horses",
           "type": "ForgeMod",
@@ -554,6 +574,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "com.pg85.otg:openterraingenerator:1.12.2-v9.4@jar",
+          "name": "Open Terrain Generator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4561864,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/OpenTerrainGenerator-1.12.2-v9.4.jar",
+            "MD5": "fa930a10e90b93129133914d76d8606d"
           }
         },
         {
