@@ -754,6 +754,94 @@
             "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "dummy.txt"
           }
+        },
+        {
+          "id": "Chocapic13 V6 Extreme.zip",
+          "name": "Chocapic13 V6 Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 196835,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20Extreme.zip",
+            "MD5": "777579993be3736f48866e3c689ebb1f",
+            "path": "shaderpacks/Chocapic13 V6 Extreme.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 High.zip",
+          "name": "Chocapic13 V6 High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 178101,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20High.zip",
+            "MD5": "d23305c63353fb7914e62afb485b8587",
+            "path": "shaderpacks/Chocapic13 V6 High.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Lite.zip",
+          "name": "Chocapic13 V6 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 148075,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20Lite.zip",
+            "MD5": "774206db2d590426746022da8386cb94",
+            "path": "shaderpacks/Chocapic13 V6 Lite.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Low.zip",
+          "name": "Chocapic13 V6 Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 148108,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20Low.zip",
+            "MD5": "9a6db4ef558981e924b3576ca9d14222",
+            "path": "shaderpacks/Chocapic13 V6 Low.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Medium.zip",
+          "name": "Chocapic13 V6 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 168721,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20Medium.zip",
+            "MD5": "e31d115bab03bc3cace8f69e9aa9a13c",
+            "path": "shaderpacks/Chocapic13 V6 Medium.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Ultra.zip",
+          "name": "Chocapic13 V6 Ultra.zip",
+          "type": "File",
+          "artifact": {
+            "size": 196912,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13%20V6%20Ultra.zip",
+            "MD5": "8443d462d088607b1950bb03b59788f6",
+            "path": "shaderpacks/Chocapic13 V6 Ultra.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+          "name": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+          "type": "File",
+          "artifact": {
+            "size": 3675840,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+            "MD5": "40888dbf19d972fa659429cef612ddcd",
+            "path": "shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Low.zip",
+          "name": "Chocapic13_V9_Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2421404,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/files/shaderpacks/Chocapic13_V9_Low.zip",
+            "MD5": "c370a206d8d2ddfaab218c1561a57ec7",
+            "path": "shaderpacks/Chocapic13_V9_Low.zip"
+          }
         }
       ]
     }
