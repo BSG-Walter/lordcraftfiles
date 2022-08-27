@@ -386,9 +386,9 @@
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1320474,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/CreativeCore_v1.10.70_mc1.12.2.jar",
-            "MD5": "2c1f06ceb07b1bb20c79ad4991a48f7b"
+            "size": 1090904,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/creativecore-1.10.jar",
+            "MD5": "ce9692bdbf5a16c1d48354b67fb8022e"
           }
         },
         {
@@ -427,11 +427,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4725314,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionaloff/EnhancedVisuals_v1.4.4_mc1.12.2.jar",
             "MD5": "908ea7af1f0a1043a4a937487235262e"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
