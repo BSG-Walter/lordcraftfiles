@@ -276,6 +276,16 @@
           }
         },
         {
+          "id": "com.builtbroken.ai.improvements:AI-Improvements:1.12-0.0.1b3@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7266,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/AIImprovements-1.12-0.0.1b3.jar",
+            "MD5": "b7530d2707a004353219ac8beceec173"
+          }
+        },
+        {
           "id": "com.blamejared:ambientenvironment:1.0.2@jar",
           "name": "Ambient Environment",
           "type": "ForgeMod",
@@ -432,6 +442,19 @@
             "size": 59008,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/EntityCulling-1.12.2-6.2.2.jar",
             "MD5": "56eb5be3c74672f7dbd87a8df2bcbfd0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "pl.asie:foamfix:0.10.14-1.12.2@jar",
+          "name": "FoamFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 242897,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/foamfix-0.10.14-1.12.2.jar",
+            "MD5": "25a8849a99778579e2d32badaff30e81"
           },
           "required": {
             "value": false
@@ -623,6 +646,19 @@
           }
         },
         {
+          "id": "com.performant.coremod:performant:1.11@jar",
+          "name": "Performant Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8387,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/performant-1.11.jar",
+            "MD5": "9d71048d2ee92951461c2c99bf7c427b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.creativemd:playerrevive:1.0@jar",
           "name": "Player Revive",
           "type": "ForgeMod",
@@ -673,6 +709,19 @@
             "size": 43194,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/SoundFilters-0.12.1_for_1.12.jar",
             "MD5": "e29a0cae708598ecd76e451682acefda"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.darkhax:surge:2.0.77@jar",
+          "name": "Surge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1042621,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/optionalon/Surge-1.12.2-2.0.77.jar",
+            "MD5": "53271408804cdf9bb22c1f885bcd8708"
           },
           "required": {
             "value": false
