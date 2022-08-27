@@ -656,6 +656,16 @@
           }
         },
         {
+          "id": "com.github.fnar:roguelike:2.4.1@jar",
+          "name": "Roguelike Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 897282,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/RoguelikeDungeonsFnarEdition-1.12.2-2.4.1.jar",
+            "MD5": "68623570e5dedb8ecd102c81ae824dfb"
+          }
+        },
+        {
           "id": "com.tmtravlr:soundfilters:0.12.1_for_1.12@jar",
           "name": "Sound Filters",
           "type": "ForgeMod",
