@@ -663,9 +663,9 @@
           "name": "Player Revive",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5133185,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/PlayerRevive_v1.2.40_mc1.12.2.jar",
-            "MD5": "4a2af17c073bc43f6076d45559c6716a"
+            "size": 5132195,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/playerrevive-1.0.jar",
+            "MD5": "12fa41333e92e12a3c84b63ca15a3ca7"
           }
         },
         {
