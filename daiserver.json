@@ -558,9 +558,9 @@
           "name": "ModularVoiceChat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2136454,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/ModularVoiceChat-1.1.1.jar",
-            "MD5": "61144c611ff36b3653e9a77d3b38394d"
+            "size": 4972887,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/daiserver-1.12.2/forgemods/required/ModularVoiceChat-1.2.0-all.jar",
+            "MD5": "b909bfb1c8ae7e8bdb8ec426cf208fb9"
           }
         },
         {
