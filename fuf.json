@@ -266,6 +266,36 @@
           }
         },
         {
+          "id": "net.geforcemods:securitycraft:v1.9.3.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3175038,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/[1.12.2]+SecurityCraft+v1.9.3.1.jar",
+            "MD5": "b89508a669235dcc5b42982af19aacc0"
+          }
+        },
+        {
+          "id": "de.ellpeck.actuallyadditions.mod:actuallyadditions:1.12.2-r152@jar",
+          "name": "Actually Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2958699,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ActuallyAdditions-1.12.2-r152.jar",
+            "MD5": "4bb5c052581c729eb8a6adc60b376ec6"
+          }
+        },
+        {
+          "id": "zmaster587.advancedrocketry:advancedrocketry:1.12.2-2.0.0-13@jar",
+          "name": "Advanced Rocketry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6098315,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/AdvancedRocketry-1.12.2-2.0.0-13.jar",
+            "MD5": "045272d30cdb7953bd2061115c698b99"
+          }
+        },
+        {
           "id": "com.builtbroken.ai.improvements:AI-Improvements:1.12-0.0.1b3@jar",
           "name": "AI-Improvements",
           "type": "ForgeMod",
@@ -273,6 +303,106 @@
             "size": 7266,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/AIImprovements-1.12-0.0.1b3.jar",
             "MD5": "b7530d2707a004353219ac8beceec173"
+          }
+        },
+        {
+          "id": "com.teamdman:animus:2.1.7@jar",
+          "name": "Animus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 349684,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Animus-1.12-2.1.7.jar",
+            "MD5": "4954b979d64c634ef7da650dac6d07b7"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:1.0.14@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33683,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/AppleSkin-mc1.12-1.0.14.jar",
+            "MD5": "b435860d5cfa23bc53d3b8e120be91d4"
+          }
+        },
+        {
+          "id": "appeng.core:appliedenergistics2:rv6-stable-7@jar",
+          "name": "Applied Energistics 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4062630,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/appliedenergistics2-rv6-stable-7.jar",
+            "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
+          }
+        },
+        {
+          "id": "com.teammetallurgy:aquaculture:1.12.2-1.6.8@jar",
+          "name": "Aquaculture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 186686,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Aquaculture-1.12.2-1.6.8.jar",
+            "MD5": "168ee7ded8fa21d49700b99e8617c79b"
+          }
+        },
+        {
+          "id": "party.lemons:arcaneworld:1.12.2-0.0.11@jar",
+          "name": "Arcane World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4848429,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/arcaneworld-1.12.2-0.0.11.jar",
+            "MD5": "b14a84105d45f76a56a0bb363eec3a99"
+          }
+        },
+        {
+          "id": "com.elytradev.architecture:architecturecraft:1.12-3.107@jar",
+          "name": "ArchitectureCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 925534,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/architecturecraft-1.12-3.107.jar",
+            "MD5": "c253750ca2fcda34383893ddc77a7994"
+          }
+        },
+        {
+          "id": "com.sofodev:armorplus:1.12.2-11.28.0.69@jar",
+          "name": "ArmorPlus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1780448,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/armorplus-1.12.2-11.28.0.69.jar",
+            "MD5": "c1c824479e19475b4c217f4e3a216bd4"
+          }
+        },
+        {
+          "id": "aroma1997.core:aroma1997core:2.0.0.2@jar",
+          "name": "Aroma1997Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398634,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Aroma1997Core-1.12.2-2.0.0.2.jar",
+            "MD5": "f5199ab1a48d442af764071147a31747"
+          }
+        },
+        {
+          "id": "aroma1997.world:aroma1997sdimension:2.0.0.2@jar",
+          "name": "Aroma1997's Dimensional World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 80736,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.jar",
+            "MD5": "f73cd99ef1bc9ccec0086fb1edcc41fb"
+          }
+        },
+        {
+          "id": "hellfirepvp.astralsorcery:astralsorcery:1.12.2-1.10.27@jar",
+          "name": "Astral Sorcery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25028160,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/astralsorcery-1.12.2-1.10.27.jar",
+            "MD5": "c2db411b6e678c7e24035cd5c0525264"
           }
         },
         {
@@ -286,13 +416,53 @@
           }
         },
         {
-          "id": "tschipp.callablehorses:callablehorses:1.1.1@jar",
-          "name": "Callable Horses",
+          "id": "baubles:baubles:1.12-1.5.2@jar",
+          "name": "Baubles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 130065,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/callablehorses-1.12.2-1.1.1.jar",
-            "MD5": "576d7b25de82ae6ed31d80c1cd3c1558"
+            "size": 108450,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+            "MD5": "944dec4ef3fbfd4d498d94a7047af201"
+          }
+        },
+        {
+          "id": "arcaratus.bloodarsenal:BloodArsenal:1.12.2-2.2.2-31@jar",
+          "name": "Blood Arsenal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 686217,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/BloodArsenal-1.12.2-2.2.2-31.jar",
+            "MD5": "9eaea32f3bd55b55e639d26a8c79ab95"
+          }
+        },
+        {
+          "id": "wayoftime.bloodmagic:bloodmagic:1.12.2-2.4.3-105@jar",
+          "name": "Blood Magic: Alchemical Wizardry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7208594,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/BloodMagic-1.12.2-2.4.3-105.jar",
+            "MD5": "90f67913247c8cf549836d724efc87fc"
+          }
+        },
+        {
+          "id": "vazkii.botania:botania:r1.10-364.4@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13817704,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Botania+r1.10-364.4.jar",
+            "MD5": "7a19779fa19e37cb9fb49a0a1770332b"
+          }
+        },
+        {
+          "id": "tk.zeitheron:botanicadds:12.2.6@jar",
+          "name": "Botanic Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199731,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/BotanicAdditions-1.12.2-12.2.6.jar",
+            "MD5": "6cd809b24e1cb796cd8e9927df45c233"
           }
         },
         {
@@ -303,6 +473,126 @@
             "size": 319866,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/carryon-1.12.2-1.12.6.20.jar",
             "MD5": "67f26a8f192efefffb6f5d34e7021a13"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:6.3.2@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2439199,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/cfm-6.3.2-1.12.2.jar",
+            "MD5": "c337d9b9b5465ba6ac78a2ca9f3dbf7c"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.guns:cgm:0.15.3@jar",
+          "name": "MrCrayfish's Gun Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814386,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/cgm-0.15.3-mc1.12.2.jar",
+            "MD5": "e7bdc91c4c17a75bce67b6e523869340"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:chameleon:1.12-4.1.3@jar",
+          "name": "Chameleon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96859,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Chameleon-1.12-4.1.3.jar",
+            "MD5": "e42efa8f4fd42d2918128a826b740e98"
+          }
+        },
+        {
+          "id": "team.chisel:chisel:MC1.12.2-1.0.2.45@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4755282,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Chisel-MC1.12.2-1.0.2.45.jar",
+            "MD5": "54afc298f94e708f0e1cdf399200b2cb"
+          }
+        },
+        {
+          "id": "mod.chiselsandbits.core:chiselsandbits:14.33@jar",
+          "name": "Chisels & Bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 737407,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/chiselsandbits-14.33.jar",
+            "MD5": "e056e23559965f2ebabf47aad0fe51a3"
+          }
+        },
+        {
+          "id": "codechicken.lib:codechickenlib:3.2.3.358@jar",
+          "name": "CodeChicken Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 704330,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+            "MD5": "3b5e44db5ac96fb23a439590b6731a31"
+          }
+        },
+        {
+          "id": "cofh:cofhcore:4.6.6.1@jar",
+          "name": "CoFH Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 848187,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+            "MD5": "f147d3b87f97bb317e1c37cba0dde002"
+          }
+        },
+        {
+          "id": "cofh.cofhworld:cofhworld:1.4.0.1@jar",
+          "name": "CoFH World",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 505987,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+            "MD5": "f2bfd74e76b71bdee8a20a9243dd5cdf"
+          }
+        },
+        {
+          "id": "com.natamus:collective:3.0@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129073,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/collective-1.12.2-3.0.jar",
+            "MD5": "b5ca96a015a58fdc8afa2973abe7b0b0"
+          }
+        },
+        {
+          "id": "com.creativemd:creativecore:1.10@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1090904,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/creativecore-1.10.jar",
+            "MD5": "ce9692bdbf5a16c1d48354b67fb8022e"
+          }
+        },
+        {
+          "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
+          "name": "CTM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 199045,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/CTM-MC1.12.2-1.0.2.31.jar",
+            "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
+          }
+        },
+        {
+          "id": "org.cyclops:cyclopscore:1.12.2-1.6.7@jar",
+          "name": "Cyclops Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1060985,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/CyclopsCore-1.12.2-1.6.7.jar",
+            "MD5": "dc635fec13b1245323a58799fa6e6b39"
           }
         },
         {
@@ -329,6 +619,36 @@
           }
         },
         {
+          "id": "net.darkhax:enchdesc:1.1.20@jar",
+          "name": "Enchantment Descriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17072,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.20.jar",
+            "MD5": "0e5200aecbd4ecba622b49a8d0f6e2a7"
+          }
+        },
+        {
+          "id": "org.cyclops:evilcraft:1.12.2-0.10.78@jar",
+          "name": "EvilCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2957006,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/EvilCraft-1.12.2-0.10.78.jar",
+            "MD5": "42b80a6688b5bc6d24f4f197e43890f2"
+          }
+        },
+        {
+          "id": "com.rwtema:extrautils2:1.0@jar",
+          "name": "Extra Utilities 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3226408,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/extrautils2-1.12-1.9.9.jar",
+            "MD5": "1ea591619e6d5204bf077214868772ef"
+          }
+        },
+        {
           "id": "pl.asie:foamfix:0.10.15-1.12.2@jar",
           "name": "FoamFix",
           "type": "ForgeMod",
@@ -336,6 +656,56 @@
             "size": 229335,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/foamfix-0.10.15-1.12.2.jar",
             "MD5": "6e09e228316900fc2c1d74e18a8b790f"
+          }
+        },
+        {
+          "id": "fossilsarcheology:fossil:8.0.6@jar",
+          "name": "Fossils and Archeology Revival",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47388909,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/fossilsarcheology-8.0.6.jar",
+            "MD5": "24c727ca21c4e654e5e41a9358fcf6d9"
+          }
+        },
+        {
+          "id": "amerifrance.guideapi:guideapi:1.12-2.1.8-63@jar",
+          "name": "Guide-API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169528,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Guide-API-1.12-2.1.8-63.jar",
+            "MD5": "117d3d825059fceb0c1d04f8701beb00"
+          }
+        },
+        {
+          "id": "com.zeitheron:hammercore:2.0.6.32@jar",
+          "name": "Hammer Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2430079,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/HammerLib-1.12.2-2.0.6.32.jar",
+            "MD5": "5bdc8e3404ca99d8617c96292092e793"
+          }
+        },
+        {
+          "id": "me.ichun.mods:hats:1.12.2-7.1.1@jar",
+          "name": "Hats",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 993630,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Hats-1.12.2-7.1.1.jar",
+            "MD5": "0240341ea62df45ba76ab8c54d8d127c"
+          }
+        },
+        {
+          "id": "com.hbm.main:hbm:hbm-1.6.9A-1.12.2@jar",
+          "name": "HBM's Nuclear Tech Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 56150793,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/hbm-1.6.9a-G.jar",
+            "MD5": "c3bc21c5276443cc7f490f135cd53c65"
           }
         },
         {
@@ -349,6 +719,16 @@
           }
         },
         {
+          "id": "me.ichun.mods:ichunutil:1.12.2-7.2.2@jar",
+          "name": "IChunUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 581963,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/iChunUtil-1.12.2-7.2.2.jar",
+            "MD5": "bf13a2044ece544b449c7dc6f8aa40af"
+          }
+        },
+        {
           "id": "xyz.kaydax:ido:1.1.0@jar",
           "name": "Ido - 1.12 movement enhancement",
           "type": "ForgeMod",
@@ -356,6 +736,46 @@
             "size": 20516,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ido-1.12.2-1.1.0.jar",
             "MD5": "103522249c0fe86372d6bfede026d35d"
+          }
+        },
+        {
+          "id": "ic2.core:ic2:2.8.170-ex112@jar",
+          "name": "IndustrialCraft 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8356436,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/industrialcraft-2-2.8.170-ex112.jar",
+            "MD5": "d4f952c94cacdd280abbb73f072b2424"
+          }
+        },
+        {
+          "id": "invtweaks:inventorytweaks:1.63+release.109.220f184@jar",
+          "name": "Inventory Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 263258,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/InventoryTweaks-1.63.jar",
+            "MD5": "1e2e33e5710394252abc4b014bc3dcbd"
+          }
+        },
+        {
+          "id": "gr8pefish.ironbackpacks:ironbackpacks:1.12.2-3.0.8-12@jar",
+          "name": "Iron Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465363,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/IronBackpacks-1.12.2-3.0.8-12.jar",
+            "MD5": "9fd50b1827b711704c69789aa94ac2ca"
+          }
+        },
+        {
+          "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
+          "name": "Iron Chests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 956692,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ironchest-1.12.2-7.0.72.847.jar",
+            "MD5": "743179bc3a8f50751efbb019acc759a9"
           }
         },
         {
@@ -369,6 +789,16 @@
           }
         },
         {
+          "id": "p455w0rd.jee:jee:1.12.2-1.0.8@jar",
+          "name": "Just Enough Energistics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22714,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/JustEnoughEnergistics-1.12.2-1.0.8.jar",
+            "MD5": "be626dce632db45ab61512e5a6d9cdd7"
+          }
+        },
+        {
           "id": "jeresources:jeresources:0.9.2@jar",
           "name": "Just Enough Resources",
           "type": "ForgeMod",
@@ -376,6 +806,46 @@
             "size": 222270,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/JustEnoughResources-1.12.2-0.9.2.60.jar",
             "MD5": "87a4666549a60d8fb423883dd4ee6232"
+          }
+        },
+        {
+          "id": "com.github.terminatornl:laggoggles:1.12.2-5.8-132@jar",
+          "name": "LagGoggles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182688,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/LagGoggles-1.12.2-5.8-132.jar",
+            "MD5": "02d6e4135058e41d65af8a3b4710a581"
+          }
+        },
+        {
+          "id": "party.lemons:lemonlib:1.12.2-1.3.0@jar",
+          "name": "LemonLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45341,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/lemonlib-1.12.2-1.3.0.jar",
+            "MD5": "eb5569119fe19c4c8f69620c840fb48f"
+          }
+        },
+        {
+          "id": "levelup2:levelup2:1.5.8@jar",
+          "name": "Level Up! Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1083920,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/levelup2-1.5.8.jar",
+            "MD5": "77aee56cc17f95fb1a047127d3a1a2ab"
+          }
+        },
+        {
+          "id": "zmaster587.libvulpes:libVulpes:1.12.2-0.4.2-25@jar",
+          "name": "LibVulpes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 539301,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/LibVulpes-1.12.2-0.4.2-25-universal.jar",
+            "MD5": "f5b3a43fd2f82ec39ad04e5392079d6e"
           }
         },
         {
@@ -389,6 +859,66 @@
           }
         },
         {
+          "id": "mcjty.lib:mcjtylib_ng:1.12-3.5.4@jar",
+          "name": "McJtyLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544856,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/mcjtylib-1.12-3.5.4.jar",
+            "MD5": "45ac9983da9fd2bc7fe3446b9f4287c1"
+          }
+        },
+        {
+          "id": "mekanism:mekanism:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7863657,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Mekanism-1.12.2-9.8.3.390.jar",
+            "MD5": "e622b8365b9a1190b3b6cc042854e870"
+          }
+        },
+        {
+          "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 336364,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/MekanismGenerators-1.12.2-9.8.3.390.jar",
+            "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+          }
+        },
+        {
+          "id": "mekanism.tools:mekanismtools:1.12.2-9.8.3.390@jar",
+          "name": "Mekanism: Tools",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 159785,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/MekanismTools-1.12.2-9.8.3.390.jar",
+            "MD5": "0095f13a729ce5873319e36e29a5b5e1"
+          }
+        },
+        {
+          "id": "boni.dummy:testdummy:1.12-1.14@jar",
+          "name": "MmmMmmMmmMmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33622,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/MmmMmmMmmMmm-1.12-1.14.jar",
+            "MD5": "fcbb4656fcd9bebe4c69f4c84701289e"
+          }
+        },
+        {
+          "id": "fr.nathanael2611.modularvoicechat:modularvc:1.2.0@jar",
+          "name": "ModularVoiceChat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3691335,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ModularVoiceChat-1.2.0-all.jar",
+            "MD5": "e6725233d5aa2aec65ce98e38fd0f6f3"
+          }
+        },
+        {
           "id": "com.bobmowzie:mowziesmobs:1.5.8@jar",
           "name": "Mowzie's Mobs",
           "type": "ForgeMod",
@@ -396,6 +926,66 @@
             "size": 5185246,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/mowziesmobs-1.5.8.jar",
             "MD5": "de6541439f9a436963b020f20164cbfa"
+          }
+        },
+        {
+          "id": "chumbanotz.mutantbeasts:mutantbeasts:1.12.2-1.0.2@jar",
+          "name": "Mutant Beasts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1200094,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/MutantBeasts-1.12.2-1.0.2.jar",
+            "MD5": "6b7285e4a0197f1c0a02e431ca918e73"
+          }
+        },
+        {
+          "id": "nc:nuclearcraft:2.18zzz-1.12.2@jar",
+          "name": "NuclearCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6902880,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/NuclearCraft-2.18zzz-1.12.2.jar",
+            "MD5": "b75bda41fc691adfbaed15250accf5e2"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.4.2-1.12.2@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129099,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/obfuscate-0.4.2-1.12.2.jar",
+            "MD5": "a5d3ac71ec8762fe72a91465de6d30a3"
+          }
+        },
+        {
+          "id": "openblocks:openblocks:1.8.1@jar",
+          "name": "OpenBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3217616,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/OpenBlocks-1.12.2-1.8.1.jar",
+            "MD5": "cd7f642f983669c6ae94d6a999d0d6e9"
+          }
+        },
+        {
+          "id": "li.cil.oc:opencomputers:1.7.7+5413028@jar",
+          "name": "OpenComputers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15833477,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/OpenComputers-MC1.12.2-1.7.7+5413028.jar",
+            "MD5": "a774f3e973510a4480afc3146ae73639"
+          }
+        },
+        {
+          "id": "openmods:openmods:0.12.2@jar",
+          "name": "OpenModsLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2639587,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/OpenModsLib-1.12.2-0.12.2.jar",
+            "MD5": "9c0606c553fbdf86e2f459c1cc40414d"
           }
         },
         {
@@ -419,6 +1009,26 @@
           }
         },
         {
+          "id": "com.creativemd:playerrevive:1.0@jar",
+          "name": "Player Revive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5132195,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/playerrevive-1.0.jar",
+            "MD5": "12fa41333e92e12a3c84b63ca15a3ca7"
+          }
+        },
+        {
+          "id": "me.ichun.mods:portalgun:1.12.2-7.1.0@jar",
+          "name": "PortalGun",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1717073,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/PortalGun-1.12.2-7.1.0.jar",
+            "MD5": "2219e579132b53719ef21ea78934f4c3"
+          }
+        },
+        {
           "id": "com.therandomlabs.randompatches.core:randompatches:1.12.2-1.22.1.10@jar",
           "name": "RandomPatches",
           "type": "ForgeMod",
@@ -426,6 +1036,36 @@
             "size": 293231,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/randompatches-1.12.2-1.22.1.10.jar",
             "MD5": "dfbb30ff396e6426ba9a284b04c7bcf3"
+          }
+        },
+        {
+          "id": "cofh.redstoneflux:redstoneflux:2.1.1.1@jar",
+          "name": "Redstone Flux",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31802,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+            "MD5": "93b1715f05be1878da93fca36dd37f2a"
+          }
+        },
+        {
+          "id": "wile.rsgauges:rsgauges:1.2.8@jar",
+          "name": "Gauges and Switches",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 888319,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/rsgauges-1.12.2-1.2.8.jar",
+            "MD5": "d079665802c4d0a483b102cd26a95b19"
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:storagedrawers:1.12.2-5.4.2@jar",
+          "name": "Storage Drawers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 605947,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/StorageDrawers-1.12.2-5.4.2.jar",
+            "MD5": "0f658c7cba3e6793abbcb934b4810902"
           }
         },
         {
@@ -439,6 +1079,136 @@
           }
         },
         {
+          "id": "thaumcraft:thaumcraft:1.12.2-6.1.BETA26@jar",
+          "name": "Thaumcraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11360786,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Thaumcraft-1.12.2-6.1.BETA26.jar",
+            "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+          }
+        },
+        {
+          "id": "org.zeith.thaumicadditions:thaumicadditions:12.7.8@jar",
+          "name": "Thaumic Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6404487,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThaumicAdditions-1.12.2-12.7.8.jar",
+            "MD5": "0651d3bb1310a5979330f41b2cac7314"
+          }
+        },
+        {
+          "id": "thaumicenergistics:thaumicenergistics:2.2.4@jar",
+          "name": "Thaumic Energistics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 586027,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/thaumicenergistics-2.2.4.jar",
+            "MD5": "723fa10eb7fd49eb369ee24c879b36a5"
+          }
+        },
+        {
+          "id": "com.buuz135:thaumicjei:1.12.2-1.6.0-27@jar",
+          "name": "ThaumicJEI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 59213,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThaumicJEI-1.12.2-1.6.0-27.jar",
+            "MD5": "ac9c39b39b4ea8dc40fe7b8a55d773d1"
+          }
+        },
+        {
+          "id": "net.thedragonteam:thedragonlib:1.12.2-5.3.0@jar",
+          "name": "TheDragonLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120010,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/thedragonlib-1.12.2-5.3.0.jar",
+            "MD5": "d46c9986c9aea91826ccad76b2c52419"
+          }
+        },
+        {
+          "id": "cofh.thermalcultivation:thermalcultivation:0.3.6.1@jar",
+          "name": "Thermal Cultivation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98845,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+            "MD5": "28970430074736ae6efbe4f7c353b30a"
+          }
+        },
+        {
+          "id": "cofh.thermaldynamics:thermaldynamics:2.5.6.1@jar",
+          "name": "Thermal Dynamics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 728082,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+            "MD5": "38a0c024f5775b0cf783de839033f8db"
+          }
+        },
+        {
+          "id": "cofh.thermalfoundation:thermalfoundation:2.6.7.1@jar",
+          "name": "Thermal Foundation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2219736,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+            "MD5": "6eca041bbf28949b60ecf1179d561156"
+          }
+        },
+        {
+          "id": "cofh.thermalinnovation:thermalinnovation:0.3.6.1@jar",
+          "name": "Thermal Innovation",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 182379,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/ThermalInnovation-1.12.2-0.3.6.1-universal.jar",
+            "MD5": "320accf690ccc1c8a23679beb63fb615"
+          }
+        },
+        {
+          "id": "com.github.terminatornl.tickcentral:TickCentral:3.2@jar",
+          "name": "TickCentral",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53554,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/TickCentral-3.2.jar",
+            "MD5": "3d92957c560795cf2107c491dc1eb2ed"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:1.8.5.0@jar",
+          "name": "TorchMaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156406,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.5.0.jar",
+            "MD5": "5d242ff1c4bd434f0b865abec8f7b4a0"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:4.0@jar",
+          "name": "Tree Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16173,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/treeharvester_1.12.2-4.0.jar",
+            "MD5": "728ce7116f9b35930fe82069a7f7d443"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:vehicle:0.44.1@jar",
+          "name": "MrCrayfish's Vehicle Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2139906,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
+            "MD5": "276818770667c1bff569d92287c53d95"
+          }
+        },
+        {
           "id": "net.darkhax:wawla:2.6.275@jar",
           "name": "What Are We Looking At",
           "type": "ForgeMod",
@@ -446,6 +1216,26 @@
             "size": 94115,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Wawla-1.12.2-2.6.275.jar",
             "MD5": "3762f87395a87af86e9552c6d7ca7e06"
+          }
+        },
+        {
+          "id": "mcjty.xnet:xnet:1.12-1.8.2@jar",
+          "name": "XNet",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 496307,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/xnet-1.12-1.8.2.jar",
+            "MD5": "13935bce3f6b827aa19567a81e5be38f"
+          }
+        },
+        {
+          "id": "assets.recipehandler:recipehandler:0.14@jar",
+          "name": "Yet Another Recipe Conflict Fixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50125,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/YARCF-0.14(1.12.2).jar",
+            "MD5": "0b31bbab122540205e8050c1b1d788b2"
           }
         }
       ]
