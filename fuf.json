@@ -1252,6 +1252,16 @@
           }
         },
         {
+          "id": "xyz.diabolicatrixlab:showcasemod:1.0.0.0@jar",
+          "name": "Showcase Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 97964,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/showcasemod-1.12.2-1.0.0.0.jar",
+            "MD5": "49fbe8eedb2cb452de1ee10aed4b6e03"
+          }
+        },
+        {
           "id": "com.tmtravlr:soundfilters:0.12.1_for_1.12@jar",
           "name": "Sound Filters",
           "type": "ForgeMod",
