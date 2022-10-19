@@ -296,16 +296,6 @@
           }
         },
         {
-          "id": "com.infinityraider:agricraft:2.12.0-1.12.2-b2@jar",
-          "name": "AgriCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1457033,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/agricraft-2.12.0-1.12.2-b2.jar",
-            "MD5": "c05da8a08533d1f8a162c4553e409c56"
-          }
-        },
-        {
           "id": "com.builtbroken.ai.improvements:AI-Improvements:1.12-0.0.1b3@jar",
           "name": "AI-Improvements",
           "type": "ForgeMod",
@@ -1383,6 +1373,16 @@
             "size": 156406,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/torchmaster_1.12.2-1.8.5.0.jar",
             "MD5": "5d242ff1c4bd434f0b865abec8f7b4a0"
+          }
+        },
+        {
+          "id": "com.github.tartaricacid.touhoulittlemaid:touhou_little_maid:1.2.5@jar",
+          "name": "Touhou Little Maid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9238397,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/touhoulittlemaid-1.12.2-1.2.5-release.jar",
+            "MD5": "4d15d6f2fb5d79ae3add1543709b37fe"
           }
         },
         {
