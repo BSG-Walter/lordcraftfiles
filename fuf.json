@@ -1479,6 +1479,50 @@
           }
         },
         {
+          "id": "keybindings.txt",
+          "name": "keybindings.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5627,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/keybindings.txt",
+            "MD5": "8ffdb9025000e1d779d250aad0a90bd3",
+            "path": "config/defaultoptions/keybindings.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1494,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/options.txt",
+            "MD5": "a531139d76c97bcaa0b59fd455b07699",
+            "path": "config/defaultoptions/options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1434,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/optionsof.txt",
+            "MD5": "986bf008820a6235c5928319090630c4",
+            "path": "config/defaultoptions/optionsof.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 61,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/servers.dat",
+            "MD5": "a9389e09eaa409d874214ffa527f215a",
+            "path": "config/defaultoptions/servers.dat"
+          }
+        },
+        {
           "id": "PureBDcraft  16x MC112.zip",
           "name": "PureBDcraft  16x MC112.zip",
           "type": "File",
