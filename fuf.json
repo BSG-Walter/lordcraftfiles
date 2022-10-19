@@ -316,6 +316,34 @@
           }
         },
         {
+          "id": "com.blamejared:ambientenvironment:1.0.2@jar",
+          "name": "Ambient Environment",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25707,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionaloff/AmbientEnvironment-1.0.2.jar",
+            "MD5": "b4b80455cd51785cb551406c679763ac"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "com.creativemd:ambientsounds:3.0@jar",
+          "name": "AmbientSounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76507814,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionaloff/AmbientSounds_v3.1.7_mc1.12.2.jar",
+            "MD5": "9e10e9af279fa7e317fe678812f80ddc"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "com.teamdman:animus:2.1.7@jar",
           "name": "Animus",
           "type": "ForgeMod",
@@ -526,6 +554,19 @@
           }
         },
         {
+          "id": "com.blamejared:clumps:3.1.2@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13792,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/Clumps-3.1.2.jar",
+            "MD5": "e0c4c4f04aeb0e0a48fc7534f9e7d6be"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "codechicken.lib:codechickenlib:3.2.3.358@jar",
           "name": "CodeChicken Lib",
           "type": "ForgeMod",
@@ -640,6 +681,19 @@
             "size": 17072,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/EnchantmentDescriptions-1.12.2-1.1.20.jar",
             "MD5": "0e5200aecbd4ecba622b49a8d0f6e2a7"
+          }
+        },
+        {
+          "id": "meldexun.entityculling:entityculling:6.2.4@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64368,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/EntityCulling-1.12.2-6.2.4.jar",
+            "MD5": "34d074c3cd4abd59343b709799f05118"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -896,6 +950,19 @@
           }
         },
         {
+          "id": "ladysnake.lumen:lumen:0.4.0@jar",
+          "name": "Lumen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 235191,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/lumen-Beta+0.4.1.jar",
+            "MD5": "b8726852f0c84cb0ccc49c677a3b1a55"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "mcjty.lib:mcjtylib_ng:1.12-3.5.4@jar",
           "name": "McJtyLib",
           "type": "ForgeMod",
@@ -986,6 +1053,19 @@
           }
         },
         {
+          "id": "meldexun.nothirium.mc:nothirium:0.1.10-beta@jar",
+          "name": "Nothirium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116067,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/Nothirium-1.12.2-0.1.10-beta.jar",
+            "MD5": "faa1c086d2c9bf358760e9cc25dcbc14"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "nc:nuclearcraft:2.18zzz-1.12.2@jar",
           "name": "NuclearCraft",
           "type": "ForgeMod",
@@ -1036,6 +1116,19 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
           "name": "OreLib Support Mod",
           "type": "ForgeMod",
@@ -1053,6 +1146,19 @@
             "size": 4912890,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
             "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          }
+        },
+        {
+          "id": "bl4ckscor3.mod:particleculling:1.12.2-v1.3.1@jar",
+          "name": "Particle Culling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15289,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/particleculling-1.12.2-v1.3.1.jar",
+            "MD5": "b324a3095054fca9b957cd6050bdf528"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1106,6 +1212,19 @@
           }
         },
         {
+          "id": "meldexun.renderlib:renderlib:1.1.9@jar",
+          "name": "RenderLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 112807,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/RenderLib-1.12.2-1.1.9.jar",
+            "MD5": "8df0ccf7516fd396d5c2f8c8aae87d83"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "wile.rsgauges:rsgauges:1.2.8@jar",
           "name": "Gauges and Switches",
           "type": "ForgeMod",
@@ -1113,6 +1232,20 @@
             "size": 888319,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/rsgauges-1.12.2-1.2.8.jar",
             "MD5": "d079665802c4d0a483b102cd26a95b19"
+          }
+        },
+        {
+          "id": "com.tmtravlr:soundfilters:0.12.1_for_1.12@jar",
+          "name": "Sound Filters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43194,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionaloff/SoundFilters-0.12.1_for_1.12.jar",
+            "MD5": "e29a0cae708598ecd76e451682acefda"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -1266,6 +1399,19 @@
           }
         },
         {
+          "id": "squeek.wailaharvestability:wailaharvestability:1.1.12@jar",
+          "name": "Waila Harvestability",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31462,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/WailaHarvestability-mc1.12-1.1.12.jar",
+            "MD5": "0bd8765ff3064be336cb1b09208e410c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.darkhax:wawla:2.6.275@jar",
           "name": "What Are We Looking At",
           "type": "ForgeMod",
@@ -1293,6 +1439,94 @@
             "size": 50125,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/YARCF-0.14(1.12.2).jar",
             "MD5": "0b31bbab122540205e8050c1b1d788b2"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Extreme.zip",
+          "name": "Chocapic13 V6 Extreme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 196835,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Extreme.zip",
+            "MD5": "777579993be3736f48866e3c689ebb1f",
+            "path": "shaderpacks/Chocapic13 V6 Extreme.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 High.zip",
+          "name": "Chocapic13 V6 High.zip",
+          "type": "File",
+          "artifact": {
+            "size": 178101,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20High.zip",
+            "MD5": "d23305c63353fb7914e62afb485b8587",
+            "path": "shaderpacks/Chocapic13 V6 High.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Lite.zip",
+          "name": "Chocapic13 V6 Lite.zip",
+          "type": "File",
+          "artifact": {
+            "size": 148075,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Lite.zip",
+            "MD5": "774206db2d590426746022da8386cb94",
+            "path": "shaderpacks/Chocapic13 V6 Lite.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Low.zip",
+          "name": "Chocapic13 V6 Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 148108,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Low.zip",
+            "MD5": "9a6db4ef558981e924b3576ca9d14222",
+            "path": "shaderpacks/Chocapic13 V6 Low.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Medium.zip",
+          "name": "Chocapic13 V6 Medium.zip",
+          "type": "File",
+          "artifact": {
+            "size": 168721,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Medium.zip",
+            "MD5": "e31d115bab03bc3cace8f69e9aa9a13c",
+            "path": "shaderpacks/Chocapic13 V6 Medium.zip"
+          }
+        },
+        {
+          "id": "Chocapic13 V6 Ultra.zip",
+          "name": "Chocapic13 V6 Ultra.zip",
+          "type": "File",
+          "artifact": {
+            "size": 196912,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Ultra.zip",
+            "MD5": "8443d462d088607b1950bb03b59788f6",
+            "path": "shaderpacks/Chocapic13 V6 Ultra.zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+          "name": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+          "type": "File",
+          "artifact": {
+            "size": 3675840,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
+            "MD5": "40888dbf19d972fa659429cef612ddcd",
+            "path": "shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip"
+          }
+        },
+        {
+          "id": "Chocapic13_V9_Low.zip",
+          "name": "Chocapic13_V9_Low.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2421404,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13_V9_Low.zip",
+            "MD5": "c370a206d8d2ddfaab218c1561a57ec7",
+            "path": "shaderpacks/Chocapic13_V9_Low.zip"
           }
         }
       ]
