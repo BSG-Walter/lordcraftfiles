@@ -1439,91 +1439,47 @@
           }
         },
         {
-          "id": "Chocapic13 V6 Extreme.zip",
-          "name": "Chocapic13 V6 Extreme.zip",
+          "id": "PureBDcraft  16x MC112.zip",
+          "name": "PureBDcraft  16x MC112.zip",
           "type": "File",
           "artifact": {
-            "size": 196835,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Extreme.zip",
-            "MD5": "777579993be3736f48866e3c689ebb1f",
-            "path": "shaderpacks/Chocapic13 V6 Extreme.zip"
+            "size": 12541564,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/resourcepacks/PureBDcraft%20%2016x%20MC112.zip",
+            "MD5": "f68c1306089d886589cc2b72a51b8d77",
+            "path": "resourcepacks/PureBDcraft  16x MC112.zip"
           }
         },
         {
-          "id": "Chocapic13 V6 High.zip",
-          "name": "Chocapic13 V6 High.zip",
+          "id": "PureBDcraft  32x MC112.zip",
+          "name": "PureBDcraft  32x MC112.zip",
           "type": "File",
           "artifact": {
-            "size": 178101,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20High.zip",
-            "MD5": "d23305c63353fb7914e62afb485b8587",
-            "path": "shaderpacks/Chocapic13 V6 High.zip"
+            "size": 14862913,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/resourcepacks/PureBDcraft%20%2032x%20MC112.zip",
+            "MD5": "8a4f904a7f7c782dba068afbe643a54f",
+            "path": "resourcepacks/PureBDcraft  32x MC112.zip"
           }
         },
         {
-          "id": "Chocapic13 V6 Lite.zip",
-          "name": "Chocapic13 V6 Lite.zip",
+          "id": "PureBDcraft  64x MC112.zip",
+          "name": "PureBDcraft  64x MC112.zip",
           "type": "File",
           "artifact": {
-            "size": 148075,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Lite.zip",
-            "MD5": "774206db2d590426746022da8386cb94",
-            "path": "shaderpacks/Chocapic13 V6 Lite.zip"
+            "size": 22446712,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/resourcepacks/PureBDcraft%20%2064x%20MC112.zip",
+            "MD5": "5f50bf6b8015e090f3af69ddd912c8af",
+            "path": "resourcepacks/PureBDcraft  64x MC112.zip"
           }
         },
         {
-          "id": "Chocapic13 V6 Low.zip",
-          "name": "Chocapic13 V6 Low.zip",
+          "id": "PureBDcraft 128x MC112.zip",
+          "name": "PureBDcraft 128x MC112.zip",
           "type": "File",
           "artifact": {
-            "size": 148108,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Low.zip",
-            "MD5": "9a6db4ef558981e924b3576ca9d14222",
-            "path": "shaderpacks/Chocapic13 V6 Low.zip"
-          }
-        },
-        {
-          "id": "Chocapic13 V6 Medium.zip",
-          "name": "Chocapic13 V6 Medium.zip",
-          "type": "File",
-          "artifact": {
-            "size": 168721,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Medium.zip",
-            "MD5": "e31d115bab03bc3cace8f69e9aa9a13c",
-            "path": "shaderpacks/Chocapic13 V6 Medium.zip"
-          }
-        },
-        {
-          "id": "Chocapic13 V6 Ultra.zip",
-          "name": "Chocapic13 V6 Ultra.zip",
-          "type": "File",
-          "artifact": {
-            "size": 196912,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13%20V6%20Ultra.zip",
-            "MD5": "8443d462d088607b1950bb03b59788f6",
-            "path": "shaderpacks/Chocapic13 V6 Ultra.zip"
-          }
-        },
-        {
-          "id": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
-          "name": "Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
-          "type": "File",
-          "artifact": {
-            "size": 3675840,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip",
-            "MD5": "40888dbf19d972fa659429cef612ddcd",
-            "path": "shaderpacks/Chocapic13_V9.1_Extreme_PBRtest2+(2).zip"
-          }
-        },
-        {
-          "id": "Chocapic13_V9_Low.zip",
-          "name": "Chocapic13_V9_Low.zip",
-          "type": "File",
-          "artifact": {
-            "size": 2421404,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/shaderpacks/Chocapic13_V9_Low.zip",
-            "MD5": "c370a206d8d2ddfaab218c1561a57ec7",
-            "path": "shaderpacks/Chocapic13_V9_Low.zip"
+            "size": 37692089,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/resourcepacks/PureBDcraft%20128x%20MC112.zip",
+            "MD5": "ea150df576f73b3cae996e3e1309286b",
+            "path": "resourcepacks/PureBDcraft 128x MC112.zip"
           }
         }
       ]
