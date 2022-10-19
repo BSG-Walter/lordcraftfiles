@@ -1046,6 +1046,16 @@
           }
         },
         {
+          "id": "com.pam:harvestcraft:1.12.2zg@jar",
+          "name": "Pam's HarvestCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4912890,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Pam's+HarvestCraft+1.12.2zg.jar",
+            "MD5": "e8e1ac67accdeea50116e1e92e592397"
+          }
+        },
+        {
           "id": "com.performant.coremod:performant:1.11@jar",
           "name": "Performant Mod",
           "type": "ForgeMod",
