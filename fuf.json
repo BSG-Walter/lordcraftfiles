@@ -1169,6 +1169,16 @@
           }
         },
         {
+          "id": "vazkii.patchouli.common.base:patchouli:1.0-23.6@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 472464,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Patchouli-1.0-23.6.jar",
+            "MD5": "5450477c1ce7189c5ee11595d5e03a7c"
+          }
+        },
+        {
           "id": "com.performant.coremod:performant:1.11@jar",
           "name": "Performant Mod",
           "type": "ForgeMod",
