@@ -296,6 +296,16 @@
           }
         },
         {
+          "id": "com.infinityraider:agricraft:2.12.0-1.12.2-b2@jar",
+          "name": "AgriCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1457033,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/agricraft-2.12.0-1.12.2-b2.jar",
+            "MD5": "c05da8a08533d1f8a162c4553e409c56"
+          }
+        },
+        {
           "id": "com.builtbroken.ai.improvements:AI-Improvements:1.12-0.0.1b3@jar",
           "name": "AI-Improvements",
           "type": "ForgeMod",
@@ -446,6 +456,16 @@
           }
         },
         {
+          "id": "org.dave:bonsaitrees:1.1.4-b170@jar",
+          "name": "Bonsai Trees",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 658780,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/bonsaitrees-1.1.4-b170.jar",
+            "MD5": "136677befb5a253b867c8fde52bfa11b"
+          }
+        },
+        {
           "id": "tschipp.carryon:carryon:1.12.3@jar",
           "name": "Carry On",
           "type": "ForgeMod",
@@ -546,6 +566,19 @@
           }
         },
         {
+          "id": "us.getfluxed.controlsearch:controlling:3.0.10@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29043,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/Controlling-3.0.10.jar",
+            "MD5": "7696135b09e93265ff190e1ee97a8257"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -591,11 +624,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/DynamicSurroundings-1.12.2-3.6.1.0.jar",
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionaloff/DynamicSurroundings-1.12.2-3.6.1.0.jar",
             "MD5": "1a0d50a34941865ff091a492e0612502"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -729,6 +763,26 @@
           }
         },
         {
+          "id": "com.infinityraider:infinitylib:1.12.1@jar",
+          "name": "InfinityLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 907292,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/infinitylib-1.12.1.jar",
+            "MD5": "d48af7ab357e9fb477c87ea9da150d59"
+          }
+        },
+        {
+          "id": "mrriegel.instantunify:instantunify:1.12.2-1.1.2@jar",
+          "name": "InstantUnify",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10301,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/instantunify-1.12.2-1.1.2.jar",
+            "MD5": "edd6718ffee3f11039c146d0cba47424"
+          }
+        },
+        {
           "id": "invtweaks:inventorytweaks:1.63+release.109.220f184@jar",
           "name": "Inventory Tweaks",
           "type": "ForgeMod",
@@ -766,6 +820,19 @@
             "size": 653210,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/jei_1.12.2-4.16.1.302.jar",
             "MD5": "2dc4b6046812e64c514ff4d18bc5cb03"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6990968,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/optionalon/journeymap-1.12.2-5.7.1.jar",
+            "MD5": "8160b970fc14cff30dff2785bb9f964c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
