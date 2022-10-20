@@ -48,6 +48,8 @@ key_key.aim:56:NONE
 key_key.reload:19:NONE
 key_key.unload:22:NONE
 key_key.xu2.searchforitems:20:NONE
+key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211:NONE
 key_keybind.hammercorerenderstack:77:NONE
 key_key.jetpack_activate:36:NONE
 key_key.jetpack_hover:35:NONE
