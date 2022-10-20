@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "fuf-1.12.2",
-      "name": "fuf (Minecraft 1.12.2)",
-      "description": "fuf Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+      "name": "MineFUF",
+      "description": "server para la comunidad fufera",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "51.161.71.153:25586",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

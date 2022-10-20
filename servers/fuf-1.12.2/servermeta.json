@@ -2,9 +2,9 @@
   "$schema": "file:///C:/Users/Walter/Documents/minefree/lordcraftfiles/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "fuf (Minecraft 1.12.2)",
-    "description": "fuf Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-    "address": "localhost:25565",
+    "name": "MineFUF",
+    "description": "server para la comunidad fufera",
+    "address": "51.161.71.153:25586",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
