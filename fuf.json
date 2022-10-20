@@ -824,6 +824,16 @@
           }
         },
         {
+          "id": "atomicstryker.infernalmobs:InfernalMobs:1.7.6@jar",
+          "name": "Infernal Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 186600,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/InfernalMobs-1.12.2.jar",
+            "MD5": "b122b1bc416c8e7ccffe9d63b0bf7039"
+          }
+        },
+        {
           "id": "com.infinityraider:infinitylib:1.12.1@jar",
           "name": "InfinityLib",
           "type": "ForgeMod",
@@ -1483,9 +1493,9 @@
           "name": "keybindings.txt",
           "type": "File",
           "artifact": {
-            "size": 5627,
+            "size": 5697,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/keybindings.txt",
-            "MD5": "8ffdb9025000e1d779d250aad0a90bd3",
+            "MD5": "376ef41b3b98c12bc1559c927222f3bd",
             "path": "config/defaultoptions/keybindings.txt"
           }
         },
@@ -1496,7 +1506,7 @@
           "artifact": {
             "size": 1494,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/options.txt",
-            "MD5": "a531139d76c97bcaa0b59fd455b07699",
+            "MD5": "0aabc7c015b358ad3a7168ff0a545cff",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -1516,9 +1526,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 61,
+            "size": 14873,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/servers.dat",
-            "MD5": "a9389e09eaa409d874214ffa527f215a",
+            "MD5": "f204cd430d885de4d1843ecadb7ea7da",
             "path": "config/defaultoptions/servers.dat"
           }
         },
