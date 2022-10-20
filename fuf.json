@@ -1103,6 +1103,16 @@
           }
         },
         {
+          "id": "com.creativemd.opf:opframe:1.1@jar",
+          "name": "OnlinePictureFrame",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78141,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/OnlinePicFrame_v1.4.40_mc1.12.2.jar",
+            "MD5": "676e3a6d3f149d2324d91173f638f1cc"
+          }
+        },
+        {
           "id": "openblocks:openblocks:1.8.1@jar",
           "name": "OpenBlocks",
           "type": "ForgeMod",
