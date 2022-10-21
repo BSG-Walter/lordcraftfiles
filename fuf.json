@@ -276,6 +276,26 @@
           }
         },
         {
+          "id": "bspkrs.bspkrscore.fml:bspkrscore:7.6.0.1@jar",
+          "name": "BspkrsCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 65907,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/[1.12]bspkrsCore-universal-7.6.0.1.jar",
+            "MD5": "c916e0be02b2522054c22016faed7ed8"
+          }
+        },
+        {
+          "id": "bspkrs.treecapitator:treecapitator:1.43.0@jar",
+          "name": "TreeCapitator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 101115,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/[1.12]TreeCapitator-client-1.43.0.jar",
+            "MD5": "08f5d4cf4987e8b099623052196d8f79"
+          }
+        },
+        {
           "id": "de.ellpeck.actuallyadditions.mod:actuallyadditions:1.12.2-r152@jar",
           "name": "Actually Additions",
           "type": "ForgeMod",
@@ -644,6 +664,16 @@
             "size": 15056,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/DefaultOptions_1.12.2-9.2.8.jar",
             "MD5": "5510673c0fad1e3b6617b3d97d54b3d5"
+          }
+        },
+        {
+          "id": "com.natamus:doubledoors:2.5@jar",
+          "name": "Double Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10174,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/doubledoors_1.12.2-2.5.jar",
+            "MD5": "c7fe4aa43874c917497e5196ea6ef9b2"
           }
         },
         {
@@ -1423,16 +1453,6 @@
             "size": 9238397,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/touhoulittlemaid-1.12.2-1.2.5-release.jar",
             "MD5": "4d15d6f2fb5d79ae3add1543709b37fe"
-          }
-        },
-        {
-          "id": "com.natamus:treeharvester:4.0@jar",
-          "name": "Tree Harvester",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 16173,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/treeharvester_1.12.2-4.0.jar",
-            "MD5": "728ce7116f9b35930fe82069a7f7d443"
           }
         },
         {
