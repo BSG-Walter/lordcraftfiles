@@ -977,16 +977,6 @@
           }
         },
         {
-          "id": "levelup2:levelup2:1.5.8@jar",
-          "name": "Level Up! Reloaded",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1083920,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/levelup2-1.5.8.jar",
-            "MD5": "77aee56cc17f95fb1a047127d3a1a2ab"
-          }
-        },
-        {
           "id": "zmaster587.libvulpes:libVulpes:1.12.2-0.4.2-25@jar",
           "name": "LibVulpes",
           "type": "ForgeMod",
