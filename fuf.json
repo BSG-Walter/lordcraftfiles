@@ -744,6 +744,16 @@
           }
         },
         {
+          "id": "com.kamildanak.minecraft:foamflower:1.12.2-1.0.0.0-beta1@jar",
+          "name": "Foamflower",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67908,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/foamflower-1.12.2-1.0.0.0-beta1.jar",
+            "MD5": "6f45a5552ea322d4419660682d195765"
+          }
+        },
+        {
           "id": "fossilsarcheology:fossil:8.0.6@jar",
           "name": "Fossils and Archeology Revival",
           "type": "ForgeMod",
@@ -1302,16 +1312,6 @@
           }
         },
         {
-          "id": "xyz.diabolicatrixlab:showcasemod:1.0.0.0@jar",
-          "name": "Showcase Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 97964,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/showcasemod-1.12.2-1.0.0.0.jar",
-            "MD5": "49fbe8eedb2cb452de1ee10aed4b6e03"
-          }
-        },
-        {
           "id": "com.tmtravlr:soundfilters:0.12.1_for_1.12@jar",
           "name": "Sound Filters",
           "type": "ForgeMod",
@@ -1473,6 +1473,16 @@
             "size": 2139906,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/vehicle-0.44.1-mc1.12.2.jar",
             "MD5": "276818770667c1bff569d92287c53d95"
+          }
+        },
+        {
+          "id": "info.jbcs.minecraft:vending:1.12.2-3.0.1.2@jar",
+          "name": "Vending",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 389773,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/vending-1.12.2-3.0.1.2.jar",
+            "MD5": "a89b3bbf606f97572f78daf5bb734c77"
           }
         },
         {
