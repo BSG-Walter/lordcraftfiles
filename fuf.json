@@ -947,6 +947,16 @@
           }
         },
         {
+          "id": "com.tmtravlr:jaff:1.7_for_1.12@jar",
+          "name": "Just a Few Fish",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 238863,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/JustAFewFish-1.7_for_1.12.jar",
+            "MD5": "7db981b35345514431b01025e4ab6cae"
+          }
+        },
+        {
           "id": "p455w0rd.jee:jee:1.12.2-1.0.8@jar",
           "name": "Just Enough Energistics",
           "type": "ForgeMod",
