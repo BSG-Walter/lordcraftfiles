@@ -504,6 +504,16 @@
           }
         },
         {
+          "id": "lumien.bloodmoon:bloodmoon:1.5.3@jar",
+          "name": "Bloodmoon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47505,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Bloodmoon-MC1.12.2-1.5.3.jar",
+            "MD5": "6abdadb259cac735ff85fce91888b9ac"
+          }
+        },
+        {
           "id": "org.dave:bonsaitrees:1.1.4-b170@jar",
           "name": "Bonsai Trees",
           "type": "ForgeMod",
