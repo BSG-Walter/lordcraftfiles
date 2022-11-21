@@ -814,16 +814,6 @@
           }
         },
         {
-          "id": "me.ichun.mods:hats:1.12.2-7.1.1@jar",
-          "name": "Hats",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 993630,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/Hats-1.12.2-7.1.1.jar",
-            "MD5": "0240341ea62df45ba76ab8c54d8d127c"
-          }
-        },
-        {
           "id": "com.hbm.main:hbm:hbm-1.6.9A-1.12.2@jar",
           "name": "HBM's Nuclear Tech Mod",
           "type": "ForgeMod",
