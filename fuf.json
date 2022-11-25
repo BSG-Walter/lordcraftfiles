@@ -256,13 +256,13 @@
           ]
         },
         {
-          "id": "io.github.notstirred:mixincompat:1.0-SNAPSHOT@jar",
-          "name": "Mixin Compatibility",
+          "id": "zone.rong.mixinbooter:MixinBooter:7.0@jar",
+          "name": "!mixinbooter",
           "type": "ForgeMod",
           "artifact": {
-            "size": 867296,
-            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/[___MixinCompat-0.8___].jar",
-            "MD5": "91038ed983e0a9748923896520465c31"
+            "size": 1063952,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/!mixinbooter-7.0.jar",
+            "MD5": "1e2cb98ff1a7ae1ff96e5c08b3861507"
           }
         },
         {
@@ -1004,6 +1004,16 @@
             "size": 884550,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/llibrary-1.7.20-1.12.2.jar",
             "MD5": "218aefca8bd6bb8d9ff7dd877c1d277d"
+          }
+        },
+        {
+          "id": "zone.rong:loliasm:5.6@jar",
+          "name": "LoliASM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1536921,
+            "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/forgemods/required/loliasm-5.6.jar",
+            "MD5": "1be3399519762fb7880616ac74f37e30"
           }
         },
         {
