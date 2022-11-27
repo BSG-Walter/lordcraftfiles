@@ -1586,9 +1586,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 14873,
+            "size": 14872,
             "url": "http://raw.githubusercontent.com/BSG-Walter/lordcraftfiles/main/servers/fuf-1.12.2/files/config/defaultoptions/servers.dat",
-            "MD5": "f204cd430d885de4d1843ecadb7ea7da",
+            "MD5": "36f43145b9a800c2f0dde9e21554ea39",
             "path": "config/defaultoptions/servers.dat"
           }
         },
