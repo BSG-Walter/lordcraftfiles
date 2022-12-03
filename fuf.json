@@ -13,7 +13,7 @@
       "description": "server para la comunidad fufera",
       "icon": null,
       "version": "1.0.0",
-      "address": "51.161.71.153:25586",
+      "address": "86.48.30.234:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

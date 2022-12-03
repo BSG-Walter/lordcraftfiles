@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "MineFUF",
     "description": "server para la comunidad fufera",
-    "address": "51.161.71.153:25586",
+    "address": "86.48.30.234:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
